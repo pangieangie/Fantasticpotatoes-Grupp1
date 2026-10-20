@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: rgb(0, 0, 0);
+}
+
+.navbar {
+    background-color: black;
+    padding: 15px;
+    border-bottom: 4px solid #69057694;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 30px;
+}
+
+.navbar a {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color:rgb(177, 15, 120);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.navbar a:hover {
+    color:blueviolet;
+}
+
+.content {
+    padding: 40px;
+}
+
+h1 {
+    color:blueviolet;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    color:rgb(177, 15, 120);
+}
