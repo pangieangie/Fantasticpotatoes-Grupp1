@@ -51,6 +51,18 @@ h1 {
     margin-bottom: 20px;
 }
 
+h2 {
+    color:blueviolet;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    color:blueviolet;
+    front-size: 22px;
+    magrin-bottom: 20px;
+}
+
 p {
     font-size: 18px;
     line-height: 1.6;
