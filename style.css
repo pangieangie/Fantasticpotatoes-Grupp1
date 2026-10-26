@@ -4,6 +4,15 @@ body {
     background-color: rgb(0, 0, 0);
 }
 
+.hero {
+    background-color: linear-gradient(135deg, #ffcf33, #ff8a00);
+    color: #fff;
+    padding: 60px 20px;
+    text-align: center;
+    boarder-radius: 10px;
+    margin-bottom: 40px;
+}
+
 .navbar {
     background-color: black;
     padding: 15px;
