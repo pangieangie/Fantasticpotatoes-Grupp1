@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta chatset="UTF-8">
+    <meta charset="UTF-8">
     <title>Algorithm</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body></body>
+<body>
 
 <nav class="navbar">
   <ul>
@@ -17,8 +17,33 @@
 </nav>
 
 <div class="content">
-<h1>Algorithm design</h1>
-<p>here we explain our algorithm design blabla</p>
+<h1>The Fantastic Potatoes Algorithm</h1>
+<p>We all struggle to find a good series sometimes, even thou we have countless streaming services, it often feels surprisingly difficult to find something that fits our mood, the interest right now or the kind of story we want at the moment. 
+This frustration became the foundation of our project. We wanted to design an algorithm that helps users to find the right streaming platform based on personal preferences, rather than broad categories or generic suggestions.
+Our algorithm helps users find the streaming platform that best matches their personal preferences. It does this by checking four criteria the user selects: language, actor, genre, and topic.
+</p>
+<h2>Step 1: Input specification</h2>
+<p>The algorithm goes through every show in our dataset and checks whether it matches all four user selected criteria. If a show fits, it is added to a list of matching shows that looks like this:</p>
+  <ul>
+              <li>-	matchingshows: A list of all shows that satisfy all user criteria</li>
+              <li>-	matchingplatform: A dictionary where each key is a platform name and each value is a list of matching shows available on that platform</li>
+            </ul>
+
+<h2>Step 2: Output specification</h2>
+<p>Each matching show is then connected to the streaming platforms where it is available. The algorithm stores this in a dictionary, making it easy to see which platform offers the most relevant content.
+</p>
+<h2>Step 3: Select matching shows</h2>
+<p>In the next step the algorithm returns a list of shows that match the user’s preferences and a recommendation of platforms that contain those shows
+This gives the user a simple, personalized way to decide which streaming service that fits them best, based on what they actually want to watch.
+</p>
+<h2>Step 4: Output generation</h2>
+<p>To improve the user experience, the algorithm sorts the results so that shows with the highest rating appear first.
+</p>
+<h2>Why This Algorithm Fits Our Dataset</h2>
+<p>This algorithm works well because the dataset is structured with comparable attributes and each attribute directly corresponds to a user preference. The relationship between shows and platforms is simple and easy to compute and the algorithm can be expanded with more criteria in the future.
+This aligns with the project’s conceptualization goals: “Our goal is to create a structured, meaningful dataset that an algorithm can use to make smarter, more personalized recommendations.”
+</p>
+
 </div>
 
 </body>
