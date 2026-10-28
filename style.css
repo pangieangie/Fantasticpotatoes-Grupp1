@@ -9,7 +9,7 @@ body {
     color: #fff;
     padding: 60px 20px;
     text-align: center;
-    boarder-radius: 10px;
+    border-radius: 10px;
     margin-bottom: 40px;
 }
 
@@ -59,8 +59,8 @@ h2 {
 
 h3 {
     color:blueviolet;
-    front-size: 22px;
-    magrin-bottom: 20px;
+    font-size: 22px;
+    margin-bottom: 20px;
 }
 
 p {
