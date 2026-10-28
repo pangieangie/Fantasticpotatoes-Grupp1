@@ -5,11 +5,11 @@ body {
 }
 
 .hero {
-    background: linear-gradient(135deg, #ffcf33, #ff8a00);
+    background-color: linear-gradient(135deg, #ffcf33, #ff8a00);
     color: #fff;
     padding: 60px 20px;
     text-align: center;
-    border-radius: 10px;
+    boarder-radius: 10px;
     margin-bottom: 40px;
 }
 
@@ -20,7 +20,6 @@ body {
 }
 
 .navbar ul {
-    color: #fff;
     list-style: none;
     margin: 0;
     padding: 0;
@@ -60,12 +59,8 @@ h2 {
 
 h3 {
     color:blueviolet;
-    font-size: 22px;
-    margin-bottom: 20px;
-}
-
-.footer {
-    text-align: center;
+    front-size: 22px;
+    magrin-bottom: 20px;
 }
 
 p {
@@ -73,3 +68,30 @@ p {
     line-height: 1.6;
     color:rgb(177, 15, 120);
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  color: rgb(177, 15, 120);
+  font-size: 14px;
+}
+
+table th, table td {
+  padding: 8px 12px;
+  border: 1px solid blueviolet;
+}
+
+table th {
+  background-color: black;
+  color: blueviolet;   
+  font-weight: bold;
+}
+
+table tr:nth-child(even) {
+  background-color: black;
+}
+
+table tr:nth-child(odd) {
+  background-color: black;
+}
+
