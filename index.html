@@ -17,20 +17,27 @@
 </nav>
 
 <div class="content">
-<h1 class="hero">Let us present the Algotrithm from The Fantastic Potatoes... (drumroll)</h1>
-    <h2>THE NEXT-GENERATION TV SERIES RECOMMENDATION ALGORITHM</h2>
+<h1 class="hero">Let us present the Algotrithm from The Fantastic Potatoes... (drumroll) 🥁</h1>
+    <h2 id="typewriter"></h2>
 <section>
-    <h3>How our idea was born</h3>
-    <p>When we started discussing what kind of dataset we wanted to work with, one thing became clear immediately: we needed a topic that actually sparks our interest. Something we use every day, something we care about, something that feels alive. Very quickly, someone mentioned movies. Another person added series. And suddenly a shared frustration unfolded: we all struggle to find a good series to watch.</p> 
+    <h3>What do we know about the problem?</h3>
+    <p>As the streaming platforms are full of tv series, we can say that it is not the lack of the series that are the problem. The problem is that the content is spread over multiple streaming platforms. Users often struggle to find something that matches their specific preferences, because existing recommendation systems rely heavily on broad categories such as previous seen series or popularity. We also know that switching between platforms to search manually is time consuming and frustrating and this creates a need for a more targeted recommendation approach.</p> 
 </section>        
 
 <section>
-    <h3>Why TV series?</h3>
-    <p>Even though we have endless streaming platforms, recommendation lists, and “Top 10” charts, it still feels surprisingly difficult to discover something that truly fits what we’re in the mood for. Sometimes the recommendations are too generic, sometimes they’re based on things we watched years ago, and sometimes they simply don’t understand what kind of story, tone, or emotional experience we’re looking for. We realized that this everyday problem is actually a perfect example of something that could be improved algorithmically.</p>
+    <h3>What does the solution look like?</h3>
+    <p>The solution is an algorithm that takes a user’s preferences and compares them with a structured dataset of TV series. Based on this comparison, the algorithm recommends the streaming platform that best matches the user’s criteria. In practice, this looks like a simple input output system: the user selects their preferences, the algorithm processes the dataset and the output is a clear recommendation of where they are most likely to find content they will enjoy. The solution should be fast, transparent and easy to use.</p>
 </section>    
 
-<p>So we decided to build a dataset around TV series and explore how an algorithm could help users find better matches based on more meaningful criteria. Instead of relying on broad categories like “Drama” or “Comedy,” we want to model our data in a way that captures deeper qualities: themes, emotional tone, pacing, complexity, representation, and maybe even the kind of experience the viewer wants (comfort, challenge, excitement, escape).  
-    </p>
+<section>
+    <h3>What sort of special cases exist?</h3>
+    <p>Special cases include situations where a user has very niche preferences that only matches with a small amount of series. Multiple platforms offer the same series, meaning the algorithm must be decided based on secondary criteria (e.g., language availability or actors involved). A user selects conflicting preferences (e.g. an actor who only appears in one genre, but the user chooses a different genre). The dataset contains incomplete or inconsistent information, which may affect the accuracy of the recommendation. A user has no strong preferences, meaning the algorithm must fall back on general patterns or default suggestions.</p> 
+</section>
+
+<section>
+    <h3>How will I recognize that I have found the solution?</h3>
+    <p>You will recognize the solution when the algorithm constantly produces recommendations that feel relevant and helpful. If users report that the suggested platform contains content they enjoy and that the recommendation saves them time compared to searching manually, the solution is working. Another indicator is that the algorithm handles special cases gracefully and still provides meaningful output. So you know you have found the right solution when the system reduces frustration and increases satisfaction in the process of choosing what to watch.</p> 
+</section>
 
 <section>
     <h2>This led us into the conceptualisation phase:</h2>
@@ -40,7 +47,6 @@
                 <li>Do we need to clean or restructure the data? Yes. We need to remove irrelevant fields, standardise genres, add tags, or create new attributes that reflect the viewer’s experience more accurately.</li>
                 <li>How will the algorithm use the data? This is the core question. We need to anticipate what information the algorithm will need to make meaningful recommendations. That means modelling our dataset so that the algorithm can easily access the relevant attributes, for example, themes, mood, complexity, or viewer preferences.</li>
             </ul>
-    
 </section>
 
 <section>
@@ -53,6 +59,21 @@
 <footer>
     <p>Created with ❤️ by the Fantastic potatoes</p>
 </footer>
+
+<script>
+const text = "THE NEXT-GENERATION TV SERIES RECOMMENDATION ALGORITHM";
+let i = 0;
+
+function typeWriter() {
+    if (i < text.length) {
+        document.getElementById("typewriter").innerHTML += text.charAt(i);
+        i++;
+        setTimeout(typeWriter, 50); // hastighet i ms
+    }
+}
+
+typeWriter();
+</script>
 
 </body>
 </html>
