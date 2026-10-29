@@ -27,6 +27,10 @@ body {
     gap: 30px;
 }
 
+.content ul {
+    color: rgb(177, 15, 120);
+}
+
 .navbar a {
     display: flex;
     align-items: center;
@@ -67,6 +71,14 @@ p {
     font-size: 18px;
     line-height: 1.6;
     color:rgb(177, 15, 120);
+}
+
+footer {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 40px; /* ändra från 20px till 40px */
+    border-top: 4px solid #69057694;
 }
 
 table {
