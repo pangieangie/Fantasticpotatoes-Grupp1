@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta chatset="UTF-8">
+    <meta charset="UTF-8">
     <title>Dataset</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -18,8 +18,17 @@
 </nav>
 
 <div class="content">
+
 <h1>Our dataset</h1>
 <p>This is the dataset we used to build our database.</p>
+
+<h1>Dataset</h1>
+<section>
+    <p>Our dataset was originally designed in one large table containing all information about each TV series. However, we quickly realized that this structure became very difficult to work with, especially when we wanted to ask queries based on specific attributes such as genre, language, actors or platform. According to Dale and Lewis (2019), a well structured database should minimize redundancy and make relationships between data clear, which is why we decided to normalize our dataset.</p>
+    <p>We first attempted a simple first normal form (1NF) structure, but this resulted in long rows with repeated values and inconsistent attribute groupings. To improve clarity and usability, we divided the dataset into multiple tables: Shows, Genres, Languages, Actors, Platforms, and several mapping tables that connect these entities. This approach follows the principle that each table should represent one type of information, while relationships are handled through join tables. It also makes our data easier to query and to expand. 
+    </p>
+</section>
+
 </div>
 
 <table class="table table-bordered table-hover table-condensed">
