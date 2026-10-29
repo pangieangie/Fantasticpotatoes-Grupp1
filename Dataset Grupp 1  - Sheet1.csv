@@ -1,0 +1,100 @@
+show_id,Title,Creation_Date,Language1,Language2,Genre1,Genre2,Actor1,Actor2,Platform1,Platform2,Seasons
+1,Jailbirds New Orleans,2020,English,Spanish,Drama,Action,Julien Leclerc,Kirsten Dunst,Netflix,,1
+2,My Little Pony - a new generation,2021,Swedish,,Kids,Family,Roberts Cullen,José Luis Ucha,Disney+,Prime video,3
+3,Birth of the dragon,2017,Chinese,English,Action,Drama,Georg Nofil,Roberts Cullen,Netflix,Prime video,1
+4,Scrubs,2001,English,,Comedy,Hospital,Zach Braff,Sarah Chalk,Disney+,,11
+5,Kompaniet,2023,Swedish,,Reality,Military,Marko Lethosalo,Petra Malm,HBO,Prime video,5
+6,Över Atlanten,2019,Swedish,English,Reality,Adventure,Gunnar Krantz,Claes Nylöf,HBO,Discovery+,6
+7,Emily in Paris,2022,English,French,Drama,Culture,Lilly Collins,Lucas Bravo,Netflix,,4
+8,An Astrological guide for broken hearts,2021,Italian,English,Comedy,Romance,Clauidia Gusmano,Lorenzo Adorni,Netflix,Prime video,2
+9,Friends,1994,English,,Comedy,,Jennifer Aniston,Matt LeBlanc,Netflix,Prime video,10
+10,Gossip Girl,2007,English,,Drama,Mystery,Blake Lively,Ed Westwick,Netflix,Prime video,6
+11,The OC,2003,English,,Drama,Comedy,Adam Brody,Melinda Clarke,ViaPlay,,4
+12,Beverly Hills 90210,1990,English,,Drama,Romance,Jason Bradey,Shannen Dorethy,Netflix,Prime video,10
+13,Money Heist - La casa de papel,2017,English,Spanish,Action,Crime,Ursula Corbero,Alvaro Morte,Netflix,Prime video,5
+14,The Knick,2014,English,,Drama,History,Clive Owen,Andre Holland,Max,,2
+15,The Deuce,2017,English,,Drama,History,James Franco,Maggie Gyllenhaal,Max,,3
+16,Treme,2010,English,,Drama,Music,Khandi Alexander,Rob Brown,Max,,4
+17,Show Me a Hero,2015,English,,Drama,History,Oscar Isaac,Peter Riegert,Max,,1
+18,Generation Kill,2008,English,,Drama,War,Alexander Skarsgard,James Ransone,Max,,1
+19,The Pacific,2010,English,,Drama,War,James Badge Dale,Joseph Mazzello,Max,,1
+20,Masters of the Air,2024,English,,Drama,War,Austin Butler,Callum Turner,Apple TV+,,1
+21,Catch-22,2019,English,,Comedy,War,Christopher Abbott,Kyle Chandler,Hulu,,1
+22,MASH,1972,English,,Comedy,War,Alan Alda,Loretta Swit,Hulu,,11
+23,Bridgerton,2020,English,,Drama,Romance,Nicola Coughlan,Luke Newton,Netflix,,3
+24,The Gilded Age,2022,English,,Drama,History,Carrie Coon,Morgan Spector,Max,,2
+25,Downton Abbey,2010,English,,Drama,History,Hugh Bonneville,Phyllis Logan,Prime Video,,6
+26,The Diplomat,2023,English,,Drama,Thriller,Keri Russell,Rufus Sewell,Netflix,,1
+27,Bodyguard,2018,English,,Crime,Drama,Richard Madden,Keeley Hawes,Netflix,,1
+28,Line of Duty,2012,English,,Crime,Drama,Martin Compston,Vicky McClure,BritBox,,6
+29,Happy Valley,2014,English,,Crime,Drama,Sarah Lancashire,Siobhan Finneran,AMC+,,3
+30,Broadchurch,2013,English,,Crime,Drama,David Tennant,Olivia Colman,BritBox,,3
+31,The Fall,2013,English,,Crime,Drama,Gillian Anderson,Jamie Dornan,Prime Video,,3
+32,Luther,2010,English,,Crime,Drama,Idris Elba,Ruth Wilson,BritBox,,5
+33,Westworld,2016,English,,Sci-Fi,Drama,Evan Rachel Wood,Thandiwe Newton,Max,,4
+34,The Nevers,2021,English,,Sci-Fi,Drama,Laura Donnelly,Ann Skelly,Tubi,,1
+35,His Dark Materials,2019,English,,Fantasy,Drama,Dafne Keen,Ruth Wilson,Max,,3
+36,Euphoria,2019,English,,Drama,,Zendaya,Hunter Schafer,Max,,2
+37,Brooklyn Nine-Nine,2013,English,,Comedy,Crime,Andy Samberg,Andre Braugher,Peacock,,8
+38,The Good Place,2016,English,,Comedy,Fantasy,Kristen Bell,Ted Danson,Netflix,,4
+39,Arrested Development,2003,English,,Comedy,,Jason Bateman,Michael Cera,Netflix,,5
+40,Lost,2004,English,,Drama,Sci-Fi,Matthew Fox,Evangeline Lilly,Hulu,Disney+,6
+41,Fringe,2008,English,,Sci-Fi,Drama,Anna Torv,Joshua Jackson,Max,,5
+42,Person of Interest,2011,English,,Action,Crime,Jim Caviezel,Michael Emerson,Max,,5
+43,Hannibal,2013,English,,Crime,Drama,Hugh Dancy,Mads Mikkelsen,Hulu,,3
+44,Dexter,2006,English,,Crime,Drama,Michael C. Hall,Jennifer Carpenter,Showtime,Paramount+,8
+45,Mr. Robot,2015,English,,Crime,Drama,Rami Malek,Christian Slater,Prime Video,,4
+46,The Blacklist,2013,English,,Crime,Drama,James Spader,Megan Boone,Netflix,Peacock,10
+47,Suits,2011,English,,Comedy,Drama,Gabriel Macht,Patrick J. Adams,Netflix,Peacock,9
+48,Billions,2016,English,,Drama,,Paul Giamatti,Damian Lewis,Showtime,Paramount+,7
+49,Peep Show,2003,English,,Comedy,,David Mitchell,Robert Webb,Hulu,Tubi,9
+50,The Inbetweeners,2008,English,,Comedy,,Simon Bird,James Buckley,Prime Video,,3
+51,The Queen's Gambit,2020,English,,Drama,,Anya Taylor-Joy,Chloe Pirrie,Netflix,,1
+52,The Marvelous Mrs. Maisel,2017,English,,Comedy,Drama,Rachel Brosnahan,Alex Borstein,Prime Video,,5
+53,The Handmaid's Tale,2017,English,,Drama,Sci-Fi,Elisabeth Moss,Yvonne Strahovski,Hulu,,5
+54,The Americans,2013,English,Russian,Crime,Drama,Keri Russell,Matthew Rhys,Hulu,,6
+55,The Leftovers,2014,English,,Drama,Mystery,Justin Theroux,Amy Brenneman,Max,,3
+56,Six Feet Under,2001,English,,Drama,Comedy,Peter Krause,Michael C. Hall,Max,,5
+57,The West Wing,1999,English,,Drama,,Martin Sheen,Rob Lowe,Max,,7
+58,The Shield,2002,English,Spanish,Crime,Drama,Michael Chiklis,Walton Goggins,Hulu,,7
+59,Deadwood,2004,English,,Drama,History,Timothy Olyphant,Ian McShane,Max,,3
+60,The White Lotus,2021,English,,Comedy,Drama,Jennifer Coolidge,Jon Gries,Max,,2
+61,Ozark,2017,English,,Crime,Drama,Jason Bateman,Laura Linney,Netflix,,4
+62,Mindhunter,2017,English,,Crime,Drama,Jonathan Groff,Holt McCallany,Netflix,,2
+63,Yellowjackets,2021,English,,Drama,Horror,Melanie Lynskey,Tawny Cypress,Showtime,Paramount+,2
+64,Fleabag,2016,English,,Comedy,Drama,Phoebe Waller-Bridge,Sian Clifford,Prime Video,,2
+65,Sherlock,2010,English,,Crime,Mystery,Benedict Cumberbatch,Martin Freeman,Hulu,,4
+66,The Witcher,2019,English,,Fantasy,Action,Henry Cavill,Freya Allan,Netflix,,3
+67,The Boys,2019,English,,Action,Comedy,Karl Urban,Jack Quaid,Prime Video,,4
+68,Invincible,2021,English,,Animation,Action,Steven Yeun,J.K. Simmons,Prime Video,,2
+69,South Park,1997,English,,Animation,Comedy,Trey Parker,Matt Stone,Max,Comedy Central,26
+70,Fargo,2014,English,,Crime,Drama,Billy Bob Thornton,Martin Freeman,Hulu,FX,5
+71,Black Mirror,2011,English,,Sci-Fi,Drama,Daniel Lapaine,Hannah John-Kamen,Netflix,,6
+72,Better Call Saul,2015,English,Spanish,Crime,Drama,Bob Odenkirk,Rhea Seehorn,AMC,Netflix,6
+73,Succession,2018,English,,Drama,Comedy,Brian Cox,Jeremy Strong,Max,,4
+74,The Mandalorian,2019,English,,Sci-Fi,Action,Pedro Pascal,Carl Weathers,Disney+,,3
+75,The Simpsons,1989,English,,Animation,Comedy,Dan Castellaneta,Nancy Cartwright,Disney+,Hulu,35
+76,The Sopranos,1999,English,Italian,Crime,Drama,James Gandolfini,Edie Falco,HBO Max,Hulu,6
+77,Narcos,2015,English,Spanish,Crime,Drama,Pedro Pascal,Wagner Moura,,,3
+78,Squid Game,2021,Korean,English,Thriller,Drama,Lee Jung-Jae,Park Hae-Soo,Netflix,,1
+79,Dark,2017,German,English,Sci-Fi,Mystery,Louis Hofmann,Lisa Vicari,Netflix,,3
+80,The Bear,2022,English,,Drama,Comedy,Jeremy Allen White,Ayo Edebiri,Hulu,Disney+,3
+81,Severance,2022,English,,Sci-Fi,Thriller,Adam Scott,Britt Lower,AppleTV+,,2
+82,The Crown,2016,English,,Drama,History,Matt Smith,Gillian Anderson,Netflix,,6
+83,Doctor Who,2005,English,,Drama,Sci-Fi,Matt Smith,Karen Gillan,Disney+,,13
+84,House Of The Dragon,2023,English,,Drama,Fantasy,Matt Smith,Emma D'Arcy,HBO,,3
+85,True Detective,2014,English,,Drama,,Woody Harrelson,Matthew McConaughey,HBO,,4
+86,Loki,2021,English,,Superhero,Drama,Tom Hiddleston,Owen Wilson,Disney+,,2
+87,Shrinking,2022,English,,Comedy,Sitcom,Jason Segel,Brett Goldstein,AppleTV+,,3
+88,Ted Lasso,2020,English,,Sports,Comedy,Jason Sudekis,Brett Goldstein,AppleTV+,,4
+89,The Pitt,2022,English,,Drama,Hospital,Noah Wyle,,HBO,,2
+90,Star Wars: The Clone Wars,2014,English,,Kids,Fantasy,Tom Kane,,Disney+,,7
+91,Shogun,2024,Japanese,English,Drama,Fiction,Cosmo Jarvis,Anna Sawai,Disney+,,1
+92,Star Trek: Next Generation,1987,English,,Sci-Fi,,Patrick Stewart,,Viaplay,,7
+93,Game Of Thrones,2012,English,,Drama,Fantasy,Kit Harrington,Emilia Clarke,HBO,,8
+94,Peaky Blinders,2013,English,,Drama,History,Cillian Murphy,Tom Hardy,Netflix,,6
+95,Band of Brothers,2003,English,,Drama,History,Tom Hanks,Tom Hardy,HBO,Prime Video,1
+96,Chernobyl,2019,English,,Drama,History,Stellan Skarsgard,Jared Harris,HBO,Prime Video,1
+97,Breaking Bad,2013,English,,Drama,,Bryan Cranston,Aaron Paul,Netlfix,Prime Video,5
+98,Andor,2021,English,,Fantasy,Action,Diego Luna,Stellan Skarsgard,Disney+,,2
+99,The Penguin,2024,English,,Drama,Superhero,Colin Farrell,Cristin Miloti,HBO,Prime Video,1
